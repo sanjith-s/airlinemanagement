@@ -54,7 +54,7 @@ $ node index.js
 
 ## Download
 
-Click here to [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) project documentation.
+Click here to [download](https://github.com/sanjith-s/airlinemanagement/raw/master/Carvel-doc.pdf) project documentation.
 
 ## License
 
