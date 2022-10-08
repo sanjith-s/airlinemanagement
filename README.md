@@ -21,7 +21,7 @@
 ## Key Features
 
 * Ticket Booking
-  - Users can browse thorugh the flights based on filters and book seats from the displayed seat matrix.
+  - Users can browse through the flights based on filters and book seats from the displayed seat matrix.
 * Cargo Booking
 * Flight tracking
 * Cargo tracking
